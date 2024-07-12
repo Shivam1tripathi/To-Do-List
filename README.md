@@ -1,4 +1,6 @@
 # How to use 
+run the application using npm start
+<br/>
 1 write the task in the input text and click on add button to add task it will start showing your task
 <br/>
 2 you can edit it by clicking on edit button
